@@ -2,6 +2,8 @@
 
 Full Stack Junior Developer
 
+Like my opening paragraph I'm currently a work in progress...
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -23,21 +25,20 @@ _Junior Test Analyst(Secondment)_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Creativity
+Having spent the vast majority of my youth and education focusing on my artistic skills, I have reached a high level of practical artistry. I have a keen eye for interesting, intuitive and functional design aspects and most importantly I have a deeply creative mind and outlook. I approach any endeavour from an innovative perspective. I love to push creative boundaries and this clearly comes through in my approach to solving problems and writing code.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Attention to Detail 
+My artistic endeavours have also provided me with precise attention to detail and these skills were later honed whilst working as a software test analyst for Ageas LTD. Whilst working as a test analyst I was responsible for running tests on our completed software builds, capturing and showcasing evidence of the test results and conveying these results to other areas of the business to ensure changes were appropriately made.
+I successfully worked on a multitude of projects and releases and I was directly responsible for locating and resolving multiple defects which, if gone undiscovered would have caused large problems for both the company and our clients alike.
+My close attention to detail has proved invaluable when it comes to locating a bug in my code, learning a new language and implementing a new method/technology to overcome a problem.
 
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
-#### Another skill
+#### Versatility
+On top of working in a large variation of job roles(from working at Greggs bakery to working on multiple vineyards in the Australian outback.) I have taught myself multiple complex computer programs to enhance my skillset (such as Photoshop, Maya, ToonBoom and AfterEffects.) I am a fast learner who is able to grasp complex concepts and ideas with ease. This has allowed me to smoothly transition into coding. I get genuine enjoyment and motivation from solving problems and overcoming new challenges. I love to learn and I love to gain new skills. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+#### Organization
 
 
 ## Education
@@ -59,7 +60,7 @@ I honed my communication skills while completing my thesis at university, which 
 ## Hobbies
 
 #### Art
-__"Yeah I dabble, like DaVinci dabbled in art" - Jeremy Usbourne__
+_"Yeah I dabble, like DaVinci dabbled in art" - Jeremy Usbourne_
 I love all things creative. film, design, animation, painting, photography and I like to dabble in them all. 
 
 #### Travelling

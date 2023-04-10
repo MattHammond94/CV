@@ -2,7 +2,7 @@
 
 Full Stack Junior Developer
 
-Like my opening paragraph here, I'm currently a work in progress...
+Like my opening paragraph I'm currently a work in progress...
 
 ## Projects
 
@@ -47,7 +47,7 @@ In March 2020 my stellar organizational skills and self-motivated attitude were 
 
 These skills have been put to the test throughout the course of makers...
 
-#### Commit-ed 
+#### Commited 
 I take pride in the work I produce. I never shy away from a task and I can be counted on to complete clearly outlined, conscientious work with initiative and to the best of my ability.
 
 ## Education

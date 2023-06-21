@@ -6,10 +6,17 @@ Like my opening paragraph I'm currently a work in progress...
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Tech/tools        | Group/solo    |
+| ---------------------------- | ----------------- | ----------------- |---------------|
+| **Final project**            | A webapp to do x. | React, Jest, etc. | Group project |
+| ---------------------------- | ----------------- | ----------------- |---------------|
+| **The Trelloship of the String** | A webapp to do y. | MERN, Jest, 
+                                                      Cypress          | Group project
+| ---------------------------- | ----------------- | ----------------- |---------------|
+| **ACMO**                     | A webapp clone of |                   | Group project |
+|                              | airbnb.           | React, Jest, etc. |               |
+| ---------------------------- | ----------------- | ----------------- |---------------|
+| **Chitter project**          | A fullstack web   | Ruby              | Solo project  |
 
 ## Work Experience
 

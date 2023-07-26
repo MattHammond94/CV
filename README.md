@@ -57,7 +57,6 @@ _Junior Test Analyst(Secondment)_
 - Responsible for writing and conducting tests for completed software releases for quality assurance.
 - Gathered and correlated evidence for completed tests and presented findings to members of DevOps team and other areas of the company.
 - Gained strong skills using Jira, TestRail and Excel
-- I became meticulous and proficient in my work in this role. I worked on multiple releases and always ensured a quality level was met.
 - I was directly responsible for discovering multiple defects and allowed multiple projects to progress to their successful deadline date.
 
 ## Education

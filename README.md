@@ -74,7 +74,7 @@ _Junior Test Analyst(Secondment)_
 #### Arts University Bournemouth (September 2013 to June 2016)
 
 - BA (Hons) Animation Production
-- Worked in teams to create polished animated short films.
+- Worked in teams to create industry quality animated short films.
 - Creating animation requires immense attention to detail, rigorous tinkering and close collaboration in order to create a polished and functioning final piece of work.
 
 ## Hobbies

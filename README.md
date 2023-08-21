@@ -1,4 +1,4 @@
-# Matt Hammond | Full Stack Developer
+# :space_invader: Matt Hammond | Full Stack Developer :space_invader:
 
 My story starts as a child who drew on walls A LOT! I couldn’t contain my desire to create. As I grew up, I naturally ended up tinkering on silly animations and found myself completing a degree(BA hons) in Animation Production.  
 
@@ -10,7 +10,7 @@ I LOVE to create things! And I love when those things are designed well, are fun
 
 ***
 
-## Projects
+## :gem: Projects
 
 Project | Description | Technologies Used | Testing Technologies | Group/Solo
 --- | --- | --- | --- | ---
@@ -19,7 +19,7 @@ Project | Description | Technologies Used | Testing Technologies | Group/Solo
 [Chitter][3] | A Test driven web clone of Twitter | Ruby, Sinatra, Postgres, SQL, HTML5(ERB), CSS | RSpec | Solo project
 ACMO| A web clone of Airbnb | Ruby, Sinatra, Postgres, SQL, HTML5(ERB), CSS | RSpec | Group project
 
-## Skills
+## :dart: Skills
 
 #### Creativity
 Having spent the vast majority of my youth and education focusing on my artistic skills, I have reached a high level of practical artistry. I have a keen eye for interesting, intuitive and functional design and I approach any endeavour from an innovative perspective. I love to push creative boundaries and this clearly comes through in my approach to solving problems and writing code.
@@ -41,7 +41,7 @@ I'm punctual, I'm used to working to strict deadlines and I have been able to co
 In March 2020 my stellar organizational skills and self-motivated attitude were put to the test when the company I worked for required all of its staff to work independently from home as a result of covid-19. Under unprecedented and somewhat manic circumstances, I showed the initiative to smoothly transition to working from home without any issues or the need for any technical support. I was one of the first in my department to be successfully set up and I offered technical support for others in my team who were struggling. My manager took the time to express his gratitude to me during this stressful period of transition and this was reflected in each of my end of quarter gradings that year.
 I take pride in the work I produce. I never shy away from a task and I can be counted on to complete clearly outlined, conscientious work with initiative and to the best of my ability. I have been able to keep up with the overwhelming workload provided by Makers Academy and have required very little support or encouragement from the coaches to keep me motivated.
 
-## Experience
+## :seedling: Experience
 
 **Makers Academy** (April 2023 to June 2023)
 - A highly selective, 16 week intensive boot-camp.
@@ -50,7 +50,7 @@ I take pride in the work I produce. I never shy away from a task and I can be co
 - Learnt about Git workflow - using branches, pull requests and merging to work collaboratively.
 - Became comfortable working collaboratively whether by pair programming or working in teams in a true agile approach(standups, retros & sprint planning.)
 - Learnt Ruby, Ruby on Rails, Javascript, SQL, React, Next.js, Node.js, Express, Sinatra, Rspec, Jest, Cypress, PostgreSQL, MySQL, MongoDB.
-- Regularly attended EQ sessions where I honed my emotional intelligence and communcation skills.
+- Regularly attended EQ sessions where I honed my emotional intelligence and communication skills.
 - Final project: Flock. A mobile app built using React Native that helps a group of friends decide on an activity.
 
 **The Koin Club** (November 2022 to March 2023)  
@@ -66,7 +66,14 @@ _Junior Test Analyst(Secondment)_
 - Gained strong skills using Jira, TestRail and Excel
 - I was directly responsible for discovering multiple defects and allowed multiple projects to progress to their successful deadline date.
 
-## Hobbies
+## :mortar_board: Education
+
+#### Arts University Bournemouth (September 2013 to June 2016)
+
+- BA (Hons) Animation Production
+- Worked in teams to create industry quality animated short films.
+
+## :tada: Hobbies
 
 #### Travelling
 I once drove from Brighton to Istanbul through a total of 21 countries in a citroen piccasso. Me and Richard Hammond might even be related.

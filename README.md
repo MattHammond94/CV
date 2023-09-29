@@ -61,22 +61,22 @@ _Administration Assistant_
 **Ageas Insurance Ltd** (April 2019 to October 2022)  
 _Junior Test Analyst(Secondment)_
 
-- Responsible for writing and conducting tests for completed software releases for quality assurance.
-- Gathered and correlated evidence for completed tests and presented findings to members of DevOps team and other areas of the company.
+- Responsible for writing and conducting tests on completed software releases for quality assurance.
+- Gathered and correlated the evidence from completed tests and presented my findings to members of DevOps team and other areas of the company.
 - Gained strong skills using Jira, TestRail and Excel
-- I was directly responsible for discovering multiple defects and allowed multiple projects to progress to their successful deadline date.
+- I was directly responsible for discovering multiple defects which allowed multiple projects to progress to their successful deadline dates.
 
 ## :mortar_board: Education
 
 #### Arts University Bournemouth (September 2013 to June 2016)
 
 - BA (Hons) Animation Production
-- Worked in teams to create industry quality animated short films.
+- Worked on multiple group projects, in a range of mediums to further understand film production pipeline and create industry quality animated short films.
 
 ## :tada: Hobbies
 
 #### Travelling
-I once drove from Brighton to Istanbul through a total of 21 countries in a citroen piccasso. Me and Richard Hammond might even be related.
+I once drove from Brighton to Istanbul through a total of 21 countries in a Citroen Picasso. Me and Richard Hammond might even be related.
 
 #### Art
 _"Yeah I dabble, like DaVinci dabbled in art" - Jeremy Usbourne_  

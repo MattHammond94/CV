@@ -1,4 +1,4 @@
-# :space_invader: Matt Hammond | Full Stack Developer :space_invader:
+# [&#x200B;](#) :space_invader: Matt Hammond | Full Stack Developer :space_invader:
 
 My story starts as a child who drew on walls A LOT! I couldn’t contain my desire to create. As I grew up, I naturally ended up tinkering on silly animations and found myself completing a degree(BA hons) in Animation Production.  
 
@@ -10,7 +10,7 @@ I LOVE to create things! And I love when those things are designed well, are fun
 
 ***
 
-## :gem: Projects
+## [&#x200B;](#) :gem: Projects
 
 Project | Description | Technologies Used | Testing Technologies | Group/Solo
 --- | --- | --- | --- | ---
@@ -19,29 +19,29 @@ Project | Description | Technologies Used | Testing Technologies | Group/Solo
 [Chitter][3] | A Test driven web clone of Twitter | Ruby, Sinatra, Postgres, SQL, HTML5(ERB), CSS | RSpec | Solo project
 ACMO| A web clone of Airbnb | Ruby, Sinatra, Postgres, SQL, HTML5(ERB), CSS | RSpec | Group project
 
-## :dart: Skills
+## [&#x200B;](#) :dart: Skills
 
-#### Creativity
+#### [&#x200B;](#) Creativity
 Having spent the vast majority of my youth and education focusing on my artistic skills, I have reached a high level of practical artistry. I have a keen eye for interesting, intuitive and functional design and I approach any endeavour from an innovative perspective. I love to push creative boundaries and this clearly comes through in my approach to solving problems and writing code.
 
-#### Attention to Detail 
+#### [&#x200B;](#) Attention to Detail 
 My artistic endeavours have also provided me with meticulous attention to detail and these skills were later honed whilst working as a software test analyst for Ageas LTD. This role involved carefully checking(and then double checking) that every aspect of a completed fix/release/new piece of software was as it should be. I successfully worked on a multitude of projects and releases and I was directly responsible for locating and resolving multiple defects which, if gone undiscovered would have caused large problems for both the company and our clients alike.
 My close attention to detail has proved invaluable when it comes to locating a bug in my code or working with a pre-existing codebase that I have not seen or used before. It has allowed me to digest and understand new/existing code with little difficulty.
 
-#### Excellent Communicator
+#### [&#x200B;](#) Excellent Communicator
 I am a clear and confident communicator. Communication has been absolutely vital to my success when working with clients on creative projects and also whilst working for Ageas LTD. Both roles, whilst very different, required the ability to communicate clearly and concisely to overcome (sometimes very complex) issues.
 Whilst working for Ageas my role involved communicating with many different areas of the business in a multitude of mediums (telephone, email, teams, zoom etc.) I was regularly conversing with new people from different areas of the business to showcase findings, reach a mutual understanding and collaboratively come to solutions. I have always been able to convey ideas simply and sophisticatedly.
 
-#### Versatile
+#### [&#x200B;](#) Versatile
 On top of working in a large variation of job roles(from working in high pressure sales roles to labouriously working on multiple vineyards in the Australian outback.) I have been able to teach myself multiple complex computer programs(Photoshop, Maya, ToonBoom and AfterEffects) to enhance my skillset. I'm a fast learner who is able to grasp complex concepts and ideas with ease. 
 This has allowed me to smoothly transition into coding. I've found learning new languages or researching an alternate method/technology to overcome a problem almost second nature and has been something I have easilly adjusted to.
 
-#### Organized, Focused and Committed
+#### [&#x200B;](#) Organized, Focused and Committed
 I'm punctual, I'm used to working to strict deadlines and I have been able to consistently meet the targets set by my managers (in multiple departments) whilst working for Ageas LTD.
 In March 2020 my stellar organizational skills and self-motivated attitude were put to the test when the company I worked for required all of its staff to work independently from home as a result of covid-19. Under unprecedented and somewhat manic circumstances, I showed the initiative to smoothly transition to working from home without any issues or the need for any technical support. I was one of the first in my department to be successfully set up and I offered technical support for others in my team who were struggling. My manager took the time to express his gratitude to me during this stressful period of transition and this was reflected in each of my end of quarter gradings that year.
 I take pride in the work I produce. I never shy away from a task and I can be counted on to complete clearly outlined, conscientious work with initiative and to the best of my ability. I have been able to keep up with the overwhelming workload provided by Makers Academy and have required very little support or encouragement from the coaches to keep me motivated.
 
-## :seedling: Experience
+## [&#x200B;](#) :seedling: Experience
 
 **Makers Academy** (April 2023 to June 2023)
 - A highly selective, 16 week intensive boot-camp.
@@ -66,24 +66,24 @@ _Junior Test Analyst(Secondment)_
 - Gained strong skills using Jira, TestRail and Excel
 - I was directly responsible for discovering multiple defects which allowed multiple projects to progress to their successful deadline dates.
 
-## :mortar_board: Education
+## [&#x200B;](#) :mortar_board: Education
 
-#### Arts University Bournemouth (September 2013 to June 2016)
+#### [&#x200B;](#) Arts University Bournemouth (September 2013 to June 2016)
 
 - BA (Hons) Animation Production
 - Worked on multiple group projects, in a range of mediums to further understand film production pipeline and create industry quality animated short films.
 
-## :tada: Hobbies
+## [&#x200B;](#) :tada: Hobbies
 
-#### Travelling
+#### [&#x200B;](#) Travelling
 I once drove from Brighton to Istanbul through a total of 21 countries in a Citroen Picasso. Me and Richard Hammond might even be related.
 
-#### Art
+#### [&#x200B;](#) Art
 _"Yeah I dabble, like DaVinci dabbled in art" - Jeremy Usbourne_  
 
 I love all things creative. Film, graphic design, animation, painting, photography and I dabble in them all. 
 
-#### Sucker for a good documentary
+#### [&#x200B;](#) Sucker for a good documentary
 Some of my favourites include: The Cosmos, AlphaGo, Abstract: The Art of Design, Frozen Planet and The Spiders Web.
 
 

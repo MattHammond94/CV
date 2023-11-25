@@ -22,7 +22,7 @@ ACMO| A web clone of Airbnb | Ruby, Sinatra, Postgres, SQL, HTML5(ERB), CSS | RS
 ## [&#x200B;](#) :dart: Skills
 
 #### [&#x200B;](#) Creativity
-Having spent the vast majority of my youth and education focusing on my artistic skills, I have reached a high level of practical artistry. I have a keen eye for interesting, intuitive and functional design and I approach any endeavour from an innovative perspective. I love to push creative boundaries and this clearly comes through in my approach to solving problems and writing code.
+Having spent the vast majority of my youth and education focusing on my artistic skills, I have reached a high level of practical artistry. I have a keen eye for interesting, intuitive and functional design and I approach any endeavour from an innovative perspective. I love to push creative boundaries and this clearly comes through in my approach to solving problems and writing code, before starting any project I like to create diagrams and visuals to aid in the process of designing a program from scratch.
 
 #### [&#x200B;](#) Attention to Detail 
 My artistic endeavours have also provided me with meticulous attention to detail and these skills were later honed whilst working as a software test analyst for Ageas LTD. This role involved carefully checking(and then double checking) that every aspect of a completed fix/release/new piece of software was as it should be. I successfully worked on a multitude of projects and releases and I was directly responsible for locating and resolving multiple defects which, if gone undiscovered would have caused large problems for both the company and our clients alike.
@@ -56,22 +56,23 @@ I take pride in the work I produce. I never shy away from a task and I can be co
 **The Koin Club** (November 2022 to March 2023)  
 _Administration Assistant_
 
-- Managed client portfolios, resolved customer issues and provided regular product updates on the company website to ensure the companys goals and customer needs were aligned.
+- Analysed and managed client portfolios by keeping up to date with product information. I then built personal relationships with these clients allowing us to maintain a loyal customer base and grow our brand appeal. This in turn saw a rise in both sales and positive feedback.
+- Resolved customer issues in a timely manner and provided regular product updates on the company website to ensure the company's goals and customer needs were aligned. This resulted in the prevention of sales loss but also kept the company's reputation positive.
 
 **Ageas Insurance Ltd** (April 2019 to October 2022)  
 _Junior Test Analyst(Secondment)_
 
-- Responsible for writing and conducting tests on completed software releases for quality assurance.
-- Gathered and correlated the evidence from completed tests and presented my findings to members of DevOps team and other areas of the company.
+- Used my keen attention to detail to meticulously write and run tests on completed software builds/releases. This assured that quality standards were met but also that any undiscovered bugs/defects were located and reported to be resolved. 
+- Conducted analysis, organised evidence from completed tests and communicated these findings to the DevOps team. This allowed them to prioritise and organise tickets accordingly and ensured that multiple projects progressed to their successful deadline date.
+- I was responsible for locating multiple undiscovered defects before projects were deployed with errors. As a result of this the issues were resolved, the user experience was preserved and the reputation of the business remained untarnished.
 - Gained strong skills using Jira, TestRail and Excel
-- I was directly responsible for discovering multiple defects which allowed multiple projects to progress to their successful deadline dates.
 
 ## [&#x200B;](#) :mortar_board: Education
 
 #### [&#x200B;](#) Arts University Bournemouth (September 2013 to June 2016)
+_BA (Hons) Animation Production_
 
-- BA (Hons) Animation Production
-- Worked on multiple group projects, in a range of mediums to further understand film production pipeline and create industry quality animated short films.
+- My team working skills were put to the test working as both an animator and concept artist on a multitude of successful graduate films in a range of different mediums and styles.
 
 ## [&#x200B;](#) :tada: Hobbies
 
